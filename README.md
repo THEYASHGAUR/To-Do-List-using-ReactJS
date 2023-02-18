@@ -1,3 +1,18 @@
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/90966838/219878452-52986d99-9f6e-45ab-a22a-1a8a7f5edd88.png">
+
+
+Current Features of this TO-DO-LIST app are:-
+1. You can add items in parallel order.
+2. You can delete the item in just a click.
+
+
+Future Planning in this Repo are :-
+1. Improve the UI.
+2. Show the date and time with each item.
+3. Improve Responsiveness.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,6 +44,3 @@ Your app is ready to be deployed!
 
 
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
